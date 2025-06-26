@@ -17,11 +17,27 @@ I did basic research on what goes into making a low profile keyboard and the dif
 Did more research and resetup kicad, i looked through a bunch of boards and found the nice!nano, the nice!nano honestly seemed great for the build but costing arround 30$ for a microcontroller seemed like a bad idea, i went back to look for another board and ended up finding this:
 
 [Supermini NRF52840](https://www.aliexpress.com/item/1005006019812115.html)
-This is a really alternative to the nice nano, it is considered Nice!Nano compatible meaning any info i find on the nice!nano will be relevant to this board, also significantly cheaper then the other board coming in at ￡7.79
+This is a really good alternative to the nice nano, it is considered Nice!Nano compatible meaning any info i find on the nice!nano will be relevant to this board, also significantly cheaper then the other board coming in at ￡7.79
 
 One of the main reasons i really like this board is the fact it is bluetooth and has charging managment, making my life much easier and brings bluetooth back as an option.
 
 I also did look for a dongle reciver and stumbled across the [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle), it is zmk compatible which is one of the main reasons its good but i dislike the bulkyness and think ill keep looking
  
 **Total time spent: 1h**
+
+# June 26th: 
+
+Designed the schematic in kicad and changed the layout
+
+![image](https://github.com/user-attachments/assets/54e04a13-ca16-484a-a316-b7c9fabad227)
+
+the new layout adds more functionality and buttons but im stuck on how i am going to fit the dev board on the new design, i also created the key layout schematic in kicad:
+
+![image](https://github.com/user-attachments/assets/1099d48f-1dad-449c-86c4-4a9eedbea567)
+
+but the dev board i am using has one less gpio pin to what i need so i either need to pick a dev dev board, not use a dev board at all or optimise the matrix more.
+i also researched some stiff on the material and came to the realisation that having my case cnc'd would be way to expensive. So right now i am planning on 3d printing it with a unique stratergy with nylon using a 3d printing method called MJF, i think it will come to arround 60 dollars but i can only tel when my case is done
+
+ 
+**Total time spent: 4h**
 
