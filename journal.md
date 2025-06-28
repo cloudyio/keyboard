@@ -41,3 +41,11 @@ i also researched some stiff on the material and came to the realisation that ha
  
 **Total time spent: 4h**
 
+# June 28th: 
+
+I came to the realisation that a dev board just wouldnt fit and the keyboard wouldnt be as compact as a wanted if i wanted to use one, so i am now embedding the microcontroller on to the pcb. I started with adding a usb c receptacle but kept hitting more and more issues as i went along, i ended up with this after 3 hours of work:
+![image](https://github.com/user-attachments/assets/951d871c-306b-4faf-9934-6873b9cfbd35)
+What i tried to do was use a IC to controll the battery so the battery wasnt charging all the time and the keyboard could either be wired or wireless, i also plan to use a 2 pin battery connector in case i ever need to replace the battery. Overall it has been very overwhelming and ill come back to it later because im 80% sure it wont work. I am now also using [ai03s guide](https://wiki.ai03.com/books/pcb-design) to try and simplify what i need to do.
+
+ 
+**Total time spent: 3.5h**
