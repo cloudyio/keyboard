@@ -39,7 +39,7 @@ but the dev board i am using has one less gpio pin to what i need so i either ne
 i also researched some stiff on the material and came to the realisation that having my case cnc'd would be way to expensive. So right now i am planning on 3d printing it with a unique stratergy with nylon using a 3d printing method called MJF, i think it will come to arround 60 dollars but i can only tel when my case is done
 
  
-**Total time spent: 4h**
+**Total time spent: 3h**
 
 # June 28th: 
 
@@ -49,3 +49,18 @@ What i tried to do was use a IC to controll the battery so the battery wasnt cha
 
  
 **Total time spent: 3.5h**
+
+# July 2nd
+
+Still working on embedding the microcontroller, found ai03s guide very helpful and ended up with this
+![image](https://github.com/user-attachments/assets/abb69542-b32d-42d4-b5f2-d0158aa3131a)
+This was great progress and everything seemed like it worked, the guide was very helpful at explaining what things did and what to do next but i quickly ran into the issue of running out of gpio pins, the microcontroller i was using (ATmega32U4) just didnt have enough pins unless i wanted to optimise my matrix. This really wasnt great as i wanted to make designing the pcb itself after the schematic as easy as possible and didnt want routes all over the place.
+
+I then decided on the rp2040 which had enough io pins for the layout i wanted. I found [this guide](https://www.youtube.com/watch?v=6Z49bynRqj8) very helpful at the begining as it showed how to correctly wire the microcontroller with the crystal and flash memory along with a usb c port. After following i ended up with this:
+
+![image](https://github.com/user-attachments/assets/65e42489-c10c-43fe-9881-d0c592a2ff3c)
+
+This is a full schematic on the rp2040 and at this point if i wanted a wired build, i could connect my matrix and be done with it but im planning on a wireless build, so i now need to connect the battery and IC from earlier to make it wireless then add bluetooth capability
+
+**Total time spent: 3.5h**
+
