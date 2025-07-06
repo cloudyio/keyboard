@@ -60,7 +60,13 @@ I then decided on the rp2040 which had enough io pins for the layout i wanted. I
 
 ![image](https://github.com/user-attachments/assets/65e42489-c10c-43fe-9881-d0c592a2ff3c)
 
-This is a full schematic on the rp2040 and at this point if i wanted a wired build, i could connect my matrix and be done with it but im planning on a wireless build, so i now need to connect the battery and IC from earlier to make it wireless then add bluetooth capability
+# July 6th
 
-**Total time spent: 3.5h**
+Havent posted a log for a while because it has been very on and off, i have pretty much decided on the FINAL mcu i will use for the keyboard, the [MDBT50Q-1MV2](https://www.raytac.com/product/ins.php?index_id=24), it has everything i need like a built in antenna and a usb interface making my life so much easier. Appart from that it has just been integrating everything from past designs into one complete circuit, making this:
+
+![image](https://github.com/user-attachments/assets/cda1ce9f-f60c-43e5-9b92-c5c24900e7f2)
+
+This seems like the final schematic for now with all the features i initally wanted and seems really refined with everything taken into account, i now need to assign every single footprint and then make the pcb
+
+**Total time spent: 2h**
 
