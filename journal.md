@@ -66,7 +66,26 @@ Havent posted a log for a while because it has been very on and off, i have pret
 
 ![image](https://github.com/user-attachments/assets/cda1ce9f-f60c-43e5-9b92-c5c24900e7f2)
 
-This seems like the final schematic for now with all the features i initally wanted and seems really refined with everything taken into account, i now need to assign every single footprint and then make the pcb
-
 **Total time spent: 2h**
+
+
+# July 9th
+
+Ive been working on routing the pcb and have got to this point:
+
+![image](https://github.com/user-attachments/assets/746a65f4-d387-4fd9-ad34-a9e556f622ae)
+
+This is great progress for me and the pcb is fully complete now, unless i add drill holes later. The keyboard uses a GND filled zone, this is to make the routing neater in general and can help with heat. Ive puposefully moved all the smd parts to the back since i am planning on getting them assembled, this is due to me not being skilled enough at soldering to properly soldier the parts properly. 3d render of the pcb:
+
+![image](https://github.com/user-attachments/assets/e9b3f331-8471-423b-885c-5c324a73ab2e)
+
+Getting the board assembeled might be expensive though. just on jlcpcb alone your required to assemble at least 2 boards which quoted me at arround 50 dollars for 2 assembled boards, 3 empty.
+
+**Total time spent: 3h**
+
+
+
+
+
+
 
