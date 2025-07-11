@@ -94,6 +94,16 @@ the reason it is entry level is due to the amount of keys it has which can remov
 
 **Total time spent: 1h**
 
+# July 11th
+
+Fully finished the schematic, i was gonna use 2 oled displays but then checked zmk's battery profiler and decided against it, this is because it would cut my battery life down by 7 times which isnt really what i want. I make 2 different matrixes for each half of the keyboard along with their own microcontrollers since better battery life + the microcontrollers are cheap so its actually easier this way
+
+<img width="1325" height="831" alt="image" src="https://github.com/user-attachments/assets/1328873e-5dfe-45e2-983d-6b597eb00af4" />
+
+
+**Total time spent: 2h**
+
+
 
 
 
