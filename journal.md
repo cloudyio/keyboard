@@ -84,6 +84,15 @@ Getting the board assembeled might be expensive though. just on jlcpcb alone you
 **Total time spent: 3h**
 
 
+# July 11th
+
+Once again ive decided to full 180 which is really unfortunate, the mcu module i was using was out of stock on jlcpcb and since there were pins on the underside, it wouldnt be possible to soldier myself. Ive decided to back track a bit and will use the Supermini, the nice!nano clone to allow for a bluetooth keyboard. I am gonna create a ergo keyboard instead and will base it off the lily 58 layout, the lilly 58 is a entry level ergo split keyboard and is a great place to start. 
+
+<img width="1060" height="409" alt="image" src="https://github.com/user-attachments/assets/4d661e7c-95e5-464a-a46c-5934b1c62d16" />
+
+the reason it is entry level is due to the amount of keys it has which can remove efficiency but i think it will be fine. The pcb will be way easier to create then the other one and i will have to start from scratch but i am happy to switch over to this idea.
+
+**Total time spent: 1h**
 
 
 
