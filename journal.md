@@ -104,6 +104,16 @@ Fully finished the schematic, i was gonna use 2 oled displays but then checked z
 **Total time spent: 2h**
 
 
+# July 15th
+
+Left hand side pcb is done! Im happy with how it turned out. Designing the first keyboard helped quite alot in routing this one and hope it works well, just need to copy it over for the right hand side now and i can start working on the case which i think will be the hardest part
+
+<img width="670" height="519" alt="image" src="https://github.com/user-attachments/assets/9854826f-4685-4762-a623-b9adb76de044" />
+
+**Total time spent: 1h**
+
+
+
 
 
 
