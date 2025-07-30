@@ -112,6 +112,18 @@ Left hand side pcb is done! Im happy with how it turned out. Designing the first
 
 **Total time spent: 1h**
 
+# July 30th
+
+After a couple weeks of procrastinating, designing in kicad became too much, it was impossible to flip the keyboard onto its right side due to the way everything is set out and i became stuck and just used ergogen. Ergogen wasnt really much easier as i found little documentation for stuff, i honestly dont know how much time i spent researching small things but it was too long so im only going to count the time it took inside of the editor. I currently have a roughly 400 line config which defines the switch layout, pcb and a bit of the case, i still need to add screws and wire the pcb but ergogen was a great help and allows for a perfectly symetrical keyboard
+
+<img width="758" height="414" alt="image" src="https://github.com/user-attachments/assets/1f064cb7-045d-480a-91ea-8fa6c5665913" />
+
+<img width="778" height="584" alt="image" src="https://github.com/user-attachments/assets/c4aea4d4-4917-4dfd-b162-eac75a6aa6a4" />
+
+[This guide](https://flatfootfox.com/ergogen-part4-footprints-cases/) was a great help in making this but ergogen still takes a huge amount of time and isnt as proficient as using your standard tools
+
+**Total time spent: 4h**
+
 
 
 
