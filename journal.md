@@ -124,6 +124,17 @@ After a couple weeks of procrastinating, designing in kicad became too much, it 
 
 **Total time spent: 4h**
 
+# July 31st
+
+Finished everything appart from firmware, it turns out that ergogen doesnt generate the other half of your keyboard! This was really annoying and i had to flip positions in kicad using a script i found. But finally after all the issues the case is done with its correct cutouts and both halfs of the pcb are wired and filled correctly!:
+
+<img width="1045" height="481" alt="image" src="https://github.com/user-attachments/assets/5338d631-af25-4722-a866-34bceaddfb68" />
+
+Now all that needs to be done is firmware then the project will be fully complete.
+
+**Total time spent: 2.5h**
+
+
 
 
 
