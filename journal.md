@@ -2,9 +2,10 @@
 title: "Cloudboard"
 author: "Cloudy"
 description: "A small low profile keyboard!"
-created_at: "2024-06-14"
+created_at: "2025-06-14"
 ---
-# June 14th: 
+
+# June 14th:
 
 I did basic research on what goes into making a low profile keyboard and the differences when designing it, i decided on a wired keyboard since i want it to be small and it is generally just easier to design a wired one, i also found a 75% to be the best for me. Picture of layout below:
 
@@ -12,20 +13,20 @@ I did basic research on what goes into making a low profile keyboard and the dif
 
 **Total time spent: 1h**
 
-# June 16th: 
+# June 16th:
 
 Did more research and resetup kicad, i looked through a bunch of boards and found the nice!nano, the nice!nano honestly seemed great for the build but costing arround 30$ for a microcontroller seemed like a bad idea, i went back to look for another board and ended up finding this:
 
 [Supermini NRF52840](https://www.aliexpress.com/item/1005006019812115.html)
-This is a really good alternative to the nice nano, it is considered Nice!Nano compatible meaning any info i find on the nice!nano will be relevant to this board, also significantly cheaper then the other board coming in at ￡7.79
+This is a really good alternative to the nice nano, it is considered Nice!Nano compatible meaning any info i find on the nice!nano will be relevant to this board, also significantly cheaper then the other board coming in at ￡ 7.79
 
 One of the main reasons i really like this board is the fact it is bluetooth and has charging managment, making my life much easier and brings bluetooth back as an option.
 
 I also did look for a dongle reciver and stumbled across the [nRF52840 Dongle](https://www.nordicsemi.com/Products/Development-hardware/nRF52840-Dongle), it is zmk compatible which is one of the main reasons its good but i dislike the bulkyness and think ill keep looking
- 
+
 **Total time spent: 1h**
 
-# June 26th: 
+# June 26th:
 
 Designed the schematic in kicad and changed the layout
 
@@ -38,16 +39,14 @@ the new layout adds more functionality and buttons but im stuck on how i am goin
 but the dev board i am using has one less gpio pin to what i need so i either need to pick a dev dev board, not use a dev board at all or optimise the matrix more.
 i also researched some stiff on the material and came to the realisation that having my case cnc'd would be way to expensive. So right now i am planning on 3d printing it with a unique stratergy with nylon using a 3d printing method called MJF, i think it will come to arround 60 dollars but i can only tel when my case is done
 
- 
 **Total time spent: 3h**
 
-# June 28th: 
+# June 28th:
 
 I came to the realisation that a dev board just wouldnt fit and the keyboard wouldnt be as compact as a wanted if i wanted to use one, so i am now embedding the microcontroller on to the pcb. I started with adding a usb c receptacle but kept hitting more and more issues as i went along, i ended up with this after 3 hours of work:
 ![image](https://github.com/user-attachments/assets/951d871c-306b-4faf-9934-6873b9cfbd35)
 What i tried to do was use a IC to controll the battery so the battery wasnt charging all the time and the keyboard could either be wired or wireless, i also plan to use a 2 pin battery connector in case i ever need to replace the battery. Overall it has been very overwhelming and ill come back to it later because im 80% sure it wont work. I am now also using [ai03s guide](https://wiki.ai03.com/books/pcb-design) to try and simplify what i need to do.
 
- 
 **Total time spent: 3.5h**
 
 # July 2nd
@@ -68,7 +67,6 @@ Havent posted a log for a while because it has been very on and off, i have pret
 
 **Total time spent: 2h**
 
-
 # July 9th
 
 Ive been working on routing the pcb and have got to this point:
@@ -83,10 +81,9 @@ Getting the board assembeled might be expensive though. just on jlcpcb alone you
 
 **Total time spent: 3h**
 
-
 # July 11th
 
-Once again ive decided to full 180 which is really unfortunate, the mcu module i was using was out of stock on jlcpcb and since there were pins on the underside, it wouldnt be possible to soldier myself. Ive decided to back track a bit and will use the Supermini, the nice!nano clone to allow for a bluetooth keyboard. I am gonna create a ergo keyboard instead and will base it off the lily 58 layout, the lilly 58 is a entry level ergo split keyboard and is a great place to start. 
+Once again ive decided to full 180 which is really unfortunate, the mcu module i was using was out of stock on jlcpcb and since there were pins on the underside, it wouldnt be possible to soldier myself. Ive decided to back track a bit and will use the Supermini, the nice!nano clone to allow for a bluetooth keyboard. I am gonna create a ergo keyboard instead and will base it off the lily 58 layout, the lilly 58 is a entry level ergo split keyboard and is a great place to start.
 
 <img width="1060" height="409" alt="image" src="https://github.com/user-attachments/assets/4d661e7c-95e5-464a-a46c-5934b1c62d16" />
 
@@ -100,9 +97,7 @@ Fully finished the schematic, i was gonna use 2 oled displays but then checked z
 
 <img width="1325" height="831" alt="image" src="https://github.com/user-attachments/assets/1328873e-5dfe-45e2-983d-6b597eb00af4" />
 
-
 **Total time spent: 2h**
-
 
 # July 15th
 
@@ -134,10 +129,8 @@ Now all that needs to be done is firmware then the project will be fully complet
 
 **Total time spent: 2.5h**
 
+# July 31st
 
+Final journal until i make it physically! i setup the firmware which was quite easy because it uses a lilly 58 format so everything is done and ready now, i am very pleased with the results and the github is now fully populated.
 
-
-
-
-
-
+**Total time spent: 2h**
