@@ -1,13 +1,14 @@
-Item,Count,Price ,Link
-NRF52840 Development Board,2,$2.28,https://www.aliexpress.com/item/1005006343285322.html?spm=a2g0o.productlist.main.7.21ec4874hMfMsm&algo_pvid=de022864-ba12-40a7-98e9-e40f0e4649a0&algo_exp_id=de022864-ba12-40a7-98e9-e40f0e4649a0-6&pdp_ext_f=%7B%22order%22%3A%22563%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.40%212.28%21%21%212.40%212.28%21%40211b807017540040839936210e2e9b%2112000036829406173%21sea%21UK%210%21ABX&curPageLogUid=YKz7SDwj0Cdl&utparam-url=scene%3Asearch%7Cquery_from%3A
-1N4148 DO-35 Diodes,1,$1.00,https://www.aliexpress.com/item/1005002620170252.html?spm=a2g0o.productlist.main.2.1b71VqGmVqGmim&algo_pvid=3e213d60-42ff-48f5-9b98-4daf7d45741a&algo_exp_id=3e213d60-42ff-48f5-9b98-4daf7d45741a-1&pdp_ext_f=%7B%22order%22%3A%22139%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%210.91%210.91%21%21%216.54%216.54%21%40211b804117540048574645188e478d%2112000021432883817%21sea%21UK%210%21ABX&curPageLogUid=tuKdnHriPnWS&utparam-url=scene%3Asearch%7Cquery_from%3A
-Keycap Set,1,$60.74,https://typeractive.xyz/products/mbk-60s?variant=51055755264231
-JST battery connector,1,$1,https://typeractive.xyz/products/battery-jack?variant=45597492707559
-power switch,1,$2,https://typeractive.xyz/products/power-switch?variant=45597854171367
-Reset tactile button,1,$2,https://typeractive.xyz/products/reset-button?variant=45597784932583
-"Lithium Battery 110mAh",2,$4,https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731665639
-"Sockets and Pins",1,$6,https://typeractive.xyz/products/machine-sockets-and-pins?variant=45741664501991
-L+R PCB,1,$10.30,https://cart.jlcpcb.com/quote?rand=0.6702360434866385
-Kailh Choc v1 Low Profile Switches,6,$30,https://typeractive.xyz/products/choc-switches?variant=45741919240423
-Black fillament,1,$24,https://thepihut.com/products/jet-black-pla-filament-1-75mm-1kg?variant=41404468035779
-,,$143.32,
+Item,Count,Price Per Item,Total Cost,Source,Notes
+NRF52840 Development Board,2,$2.28,$4.56, https://www.aliexpress.com/item/1005006343285322.html?spm=a2g0o.productlist.main.16.da196709iYdnya&algo_pvid=498a7957-2f8c-4621-a819-7abbb48ef46d&algo_exp_id=498a7957-2f8c-4621-a819-7abbb48ef46d-13&pdp_ext_f=%7B%22order%22%3A%22551%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%212.40%212.28%21%21%212.40%212.28%21%40211b655217543496626874868eff39%2112000036829406173%21sea%21UK%210%21ABX&curPageLogUid=FkpaFKaINTmf&utparam-url=scene%3Asearch%7Cquery_from%3A,Cheap nice!nano
+1N4148 DO-35 Diodes,1,$1.03,$1.03,https://www.aliexpress.com/item/1005002339916163.html?spm=a2g0o.productlist.main.4.475e37a1QpAenk&aem_p4p_detail=202508041623367356635755712390004563958&algo_pvid=e08082e6-e382-4f1e-a09c-54978b11e3c6&algo_exp_id=e08082e6-e382-4f1e-a09c-54978b11e3c6-3&pdp_ext_f=%7B%22order%22%3A%22329%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.07%211.03%21%21%211.07%211.03%21%40210390b817543498166135972e8d43%2112000020175180916%21sea%21UK%210%21ABX&curPageLogUid=nwpW7tfa9ti2&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=202508041623367356635755712390004563958_1,Diodes
+Keycap Set,1,$29.94,$29.94,https://www.aliexpress.com/item/1005007511714496.html?spm=a2g0o.detail.0.0.4a7bOK6zOK6zd4&mp=1&pdp_npi=5%40dis%21USD%21USD%2029.94%21USD%2027.74%21%21USD%2027.74%21%21%21%40211b613917543927371393706e2a71%2112000041079406832%21ct%21UK%214899091290%21%211%210,"keycap set, quite good quality and look very nice, most price to performacnce i could find"
+JST battery connector ,1,$1,$1,https://typeractive.xyz/products/battery-jack?variant=45597492707559,"Battery connector, comes with 2"
+power switch,1,$2,$2,https://typeractive.xyz/products/power-switch?variant=45597854171367,Also comes with 2
+Reset tactile button,1,$2,$2,https://typeractive.xyz/products/reset-button?variant=45597784932583,"Again, comes with 2"
+"Lithium Battery 110mAh",2,$4,8$,https://typeractive.xyz/products/lithium-battery-110mah?variant=43294731665639,"Pretty cheap batteries, has the pcb integrated and fits under the dev board to stay hidden"
+"Sockets and Pins",2,$7,13$,https://typeractive.xyz/products/machine-sockets-and-pins?variant=45741664501991,"Hot swap pins, makes the dev board easy to take off the pcb in case of issues, also adds height for battery"
+L+R PCB,2,$10.30,$30.54,https://cart.jlcpcb.com/quote?rand=0.6702360434866385,Both pcbs
+Kailh Choc v1 Low Profile Switches,6,$6,33$,https://typeractive.xyz/products/choc-switches?variant=45741919240423,"Pretty good switches for a good price, only need 60 since keyboard is 58 keys"
+Black fillament,1,$18,$18,https://a.co/d/5nH2rc7,"Grey fillament thats cheap, only one i could find in budget"
+Heat inserts,1,$1.70,$1.70,https://www.aliexpress.com/item/1005008666672949.html?spm=a2g0o.productlist.main.1.ca0120e5XnvkcI&algo_pvid=65c3fc17-1755-45b7-85bb-becc4f9a3a66&algo_exp_id=65c3fc17-1755-45b7-85bb-becc4f9a3a66-0&pdp_ext_f=%7B%22order%22%3A%222513%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21USD%211.85%210.99%21%21%211.85%210.99%21%402103835e17543530241436264e5646%2112000046157335300%21sea%21UK%210%21ABX&curPageLogUid=fu29zqBtC1Cv&utparam-url=scene%3Asearch%7Cquery_from%3A," Heat inserts so fillament doesnt get destroyed, they annoyingly only come in 50 but there cheap so its fine anyway"
+,,,$144.76,,
