@@ -3,7 +3,9 @@ title: "Cloudboard"
 author: "Cloudy"
 description: "A small low profile keyboard!"
 created_at: "2025-06-14"
+time spent: "26h"
 ---
+
 
 # June 14th:
 
