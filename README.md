@@ -2,7 +2,8 @@
 
 A low profile ergo keyboard inspired by the lily 58.
 
-![3d model](static/image.png)
+![image](https://github.com/user-attachments/assets/e07ee7fa-1ea7-43b9-b819-394b6549532e)
+
 ![pcb](static/pcb.png)
 The keyboard is a small low profile keyboard made to be wireless and bluetooth, it features a lily 58 key layout, 110mAh battery and 2 nice!nano alternative controllers
 
