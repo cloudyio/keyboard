@@ -30,7 +30,8 @@ The keyboard is made to be clean and compact with each half only being less then
 
 The nice!nano is conciderably one of the best boards for a ergo split keyboard, this is due to its small size while still packing bluetooth compatibility, built in battery managment and USB C. One of the biggest issues with the board though is its 20 dollar price point so instead the keyboard uses a replicate alternative which includes **all** the features of the nice!nano (can be found in BOM below).
 
-[image](https://github.com/user-attachments/assets/2262b9b5-5f9a-48d3-944a-ceb3810b944e)
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/997e4fce-30fc-4af8-adf2-69cb36a1dc38" />
+
 
 TLDR:
 
@@ -42,7 +43,7 @@ Low profile keyboard are better ergonimically, are smaller, lighter and arguably
 
 ![image](https://github.com/user-attachments/assets/4c022ef0-c3ee-48b4-a293-6787055a77df)
 
-## PCB view
+
 
 
 ## BOM
