@@ -3,7 +3,7 @@ title: "Cloudboard"
 author: "Cloudy"
 description: "A small low profile keyboard!"
 created_at: "2025-06-14"
-time spent: "26h"
+time spent: "27.25h"
 ---
 
 
@@ -136,3 +136,13 @@ Now all that needs to be done is firmware then the project will be fully complet
 Final journal until i make it physically! i setup the firmware which was quite easy because it uses a lilly 58 format so everything is done and ready now, i am very pleased with the results and the github is now fully populated.
 
 **Total time spent: 2h**
+
+# August 6th
+Added more to the case and plate as per request, added a triangle patter to the sides anda little cloud on the top! also semi rendered it so it looks better on the readme, all changes can be viewed straight from readme, BOM was also updated the day prior but i dont think it deserves its own journal log
+
+**Total time spent: 0.75h**
+
+# August 7th
+Realised how void my readme was and went through the checklist realising i was more stuff, i added switches to my cad to give a better idea om how it will look and got a couple good screenshots, enhanced the features section and gave more description on pretty much everything
+
+**Total time spent: 0.5h**
