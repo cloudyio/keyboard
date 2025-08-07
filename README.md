@@ -6,7 +6,7 @@ A low profile ergo keyboard inspired by the lily 58.
 
 ## Overview
 
-The cloudboard is a small low profile keyboard made to be wireless and bluetooth, it features a lily 58 key layout, 110mAh battery and 2 nice!nano alternative controllers
+The cloudboard is a small low profile keyboard made to be wireless and bluetooth, it features a lily 58 key layout, 110mAh batteriea im each half and 2 supermini controllers
 
 The keyboard uses ZMK for its firmware due to how simple but effective it is for ergo and bluetooth keyboards.
 
