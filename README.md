@@ -2,7 +2,7 @@
 
 A low profile ergo keyboard inspired by the lily 58.
 
-![image](https://github.com/user-attachments/assets/4caf9ec3-ba28-4b1f-bb33-e1b75838cd37)
+![image](https://github.com/user-attachments/assets/91c70c8f-45e1-478f-9b0f-82848628a5e0)
 
 *Dev Board elavated to show height of headers*
 
