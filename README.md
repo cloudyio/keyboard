@@ -21,7 +21,7 @@ Ive wanted to try out a ergo keyboard for a while now and thought it would be a 
 The keyboard is made to be clean and compact with each half only being less then 15cm long, the layout used is also concidered a intro ergo keyboard layout having many similarities to a normal layout which makes it easy to learn!
 
 ![image](https://github.com/user-attachments/assets/e24635f4-9091-40d6-8df4-e172e8bf7eeb)
-*PCB risen to represent height of header*
+*Dev board risen to represent height of header*
 
 ![pcb](static/pcb.png)
 
