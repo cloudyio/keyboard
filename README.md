@@ -23,9 +23,6 @@ The keyboard is made to be clean and compact with each half only being less then
 ![image](https://github.com/user-attachments/assets/e24635f4-9091-40d6-8df4-e172e8bf7eeb)
 *Dev board risen to represent height of header*
 
-![pcb](static/pcb.png)
-
-
 ### NRF52840 Board
 
 The nice!nano is conciderably one of the best boards for a ergo split keyboard, this is due to its small size while still packing bluetooth compatibility, built in battery managment and USB C. One of the biggest issues with the board though is its 20 dollar price point so instead the keyboard uses a replicate alternative which includes **all** the features of the nice!nano (can be found in BOM below).
@@ -43,6 +40,19 @@ Low profile keyboard are better ergonimically, are smaller, lighter and arguably
 
 ![image](https://github.com/user-attachments/assets/4c022ef0-c3ee-48b4-a293-6787055a77df)
 
+
+## Schematics/PCB
+
+![pcb](static/pcb.png)
+
+<img width="749" height="594" alt="image" src="https://github.com/user-attachments/assets/909d4f12-9f09-4d40-b7b2-3e041579dcf2" />
+
+Both schematics are the exact same
+
+![image](https://github.com/user-attachments/assets/6098dc77-79f3-49f3-8a1c-7149160cb264)
+
+
+![image](https://github.com/user-attachments/assets/79f2073f-d7c2-4ba7-b997-f2f86e18ddf7)
 
 
 
