@@ -65,5 +65,5 @@ Low profile keyboard are better ergonimically, are smaller, lighter and arguably
 notes:
 
 - VAT is included but shipping is not since it varies, will typically end up at arround 7-15 dollars
-- most parts picked from typeractive for conviniece since it has the keycaps and switches + most components needed and also to keep shipping costs low
-- Typer active has an active 5% discount code as of making it, making it even cheaper
+
+
