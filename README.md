@@ -79,5 +79,6 @@ Both schematics are the exact same
 notes:
 
 - VAT is included but shipping is not since it varies, will typically end up at arround 7-15 dollars
+- to save 5 dollars or so use the panel.zip gerber which is the 2 pcbs connected via mouse bites
 
 
